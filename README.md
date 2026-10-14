@@ -7,11 +7,14 @@ Explore the city, survive on the streets, interact with NPCs, earn money, and ex
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="32%" alt="fight.png">
-  <img src="screenshots/screenshot2.png" width="32%" alt="GTA: StreetBound Screenshot 2">
-  <img src="screenshots/screenshot3.png" width="32%" alt="GTA: StreetBound Screenshot 3">
+  <img src="screenshots/menu.png" width="48%" alt="Main Menu">
+  <img src="screenshots/world.jpg" width="48%" alt="Game World">
 </p>
 
+<p align="center">
+  <img src="screenshots/map.png" width="48%" alt="Map">
+  <img src="screenshots/fight.png" width="48%" alt="Combat">
+</p>
 ## 🎮 Download the Game
 
 **GTA: StreetBound is available exclusively on itch.io.**
