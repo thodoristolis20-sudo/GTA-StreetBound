@@ -7,9 +7,9 @@ Explore the city, survive on the streets, interact with NPCs, earn money, and ex
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Screenshots/screenshot1.png" width="32%" alt="fight.png">
-  <img src="Screenshots/screenshot2.png" width="32%" alt="GTA: StreetBound Screenshot 2">
-  <img src="Screenshots/screenshot3.png" width="32%" alt="GTA: StreetBound Screenshot 3">
+  <img src="screenshots/screenshot1.png" width="32%" alt="fight.png">
+  <img src="screenshots/screenshot2.png" width="32%" alt="GTA: StreetBound Screenshot 2">
+  <img src="screenshots/screenshot3.png" width="32%" alt="GTA: StreetBound Screenshot 3">
 </p>
 
 ## 🎮 Download the Game
