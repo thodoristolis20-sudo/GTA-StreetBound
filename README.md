@@ -2,103 +2,61 @@
 
 **An open-world survival game built with Unity.**
 
-Welcome to **GTA: StreetBound**, an indie game that combines urban exploration, survival mechanics, and player freedom in a living city.
+Explore the city, survive on the streets, interact with NPCs, earn money, and experience the world of GTA: StreetBound.
 
-🌐 **Play the game:** [GTA: StreetBound on itch.io](https://thodoristolis.itch.io/gtastreetbound)
+## 📸 Screenshots
 
----
+<p align="center">
+  <img src="Screenshots/screenshot1.png" width="32%" alt="fight.png">
+  <img src="Screenshots/screenshot2.png" width="32%" alt="GTA: StreetBound Screenshot 2">
+  <img src="Screenshots/screenshot3.png" width="32%" alt="GTA: StreetBound Screenshot 3">
+</p>
 
-## 🌆 About the Game
+## 🎮 Download the Game
 
-GTA: StreetBound is an independent game focused on surviving and exploring an urban environment. Experience city life, interact with characters, earn money, complete activities, and make your own choices as you navigate the streets.
+**GTA: StreetBound is available exclusively on itch.io.**
 
-Manage your needs, explore your surroundings, and find your own way to survive.
+<p align="center">
+  <a href="https://thodoristolis.itch.io/gtastreetbound">
+    <img src="https://img.shields.io/badge/Download-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Download on itch.io">
+  </a>
+</p>
+
+👉 **[Download GTA: StreetBound here](https://thodoristolis.itch.io/gtastreetbound)**
 
 ## ✨ Features
 
-* 🏙️ **Urban Exploration** — Explore the city and discover your surroundings.
-* 🧍 **NPC Interactions** — Meet and interact with characters throughout the world.
-* 🎯 **Quests & Activities** — Complete tasks and earn money.
-* 💰 **Economy System** — Earn and manage your money.
-* 🍔 **Survival Mechanics** — Manage hunger, thirst, energy, and other needs.
-* 🤝 **Relationships** — Build relationships and interact with other characters.
-* 🌦️ **Dynamic Weather** — Experience changing weather conditions.
-* ❄️ **Seasonal Survival** — Prepare for colder conditions and survive the winter.
-* ⚡ **Player Freedom** — Make choices and experience different aspects of city life.
+* 🏙️ Explore an urban environment.
+* 🧍 Interact with NPCs.
+* 🎯 Complete quests and activities.
+* 💰 Earn and manage money.
+* 🍔 Manage survival needs.
+* 🤝 Build relationships with characters.
+* 🌦️ Experience changing weather.
+* ❄️ Prepare for winter and survive.
 
-*Features and mechanics may change as development continues.*
+*Features may change as development continues.*
 
 ## 🛠️ Built With
 
-* **Unity** — Game engine
-* **C#** — Programming language
-
-## 💻 Getting Started
-
-To explore or work with the Unity project:
-
-1. Install [Unity Hub](https://unity.com/download).
-2. Download or clone this repository.
-3. Open Unity Hub.
-4. Select **Add** and choose the project folder.
-5. Open the project using the Unity Editor version specified in `ProjectSettings/ProjectVersion.txt`.
-6. Wait for Unity to import the assets.
-
-Some dependencies or assets may require additional setup.
-
-## 📥 Play the Game
-
-Want to experience GTA: StreetBound?
-
-👉 **[Download it on itch.io](https://thodoristolis.itch.io/gtastreetbound)**
-
-Check the game page for the latest available version and installation instructions.
+* Unity
+* C#
 
 ## 🚧 Development Status
 
-GTA: StreetBound is an ongoing indie game project.
+GTA: StreetBound is an indie game project currently in development.
 
-New features, improvements, bug fixes, and gameplay changes may be introduced as development progresses.
+More improvements, features, and content may arrive in future updates.
 
-Stay tuned for future updates!
+## 📢 Follow the Project
 
-## 🗺️ Roadmap
+For the latest version, updates, and download information, visit the official itch.io page:
 
-Planned improvements may include:
-
-* Additional gameplay mechanics
-* New activities and quests
-* Improved NPC interactions
-* Performance optimizations
-* Bug fixes and gameplay improvements
-* New content and world enhancements
-
-The roadmap may change based on development priorities.
-
-## 🐛 Bug Reports & Feedback
-
-Found a bug or have an idea for the game?
-
-You can share feedback through the [itch.io game page](https://thodoristolis.itch.io/gtastreetbound) or open an issue in this GitHub repository.
-
-Feedback and suggestions are always appreciated!
-
-## 📜 License & Copyright
-
-**GTA: StreetBound is an independent game project.**
-
-Unless otherwise stated, the project's source code and original content remain the property of their respective copyright holders.
-
-Third-party assets, libraries, and other materials may be subject to their own licenses.
-
-No permission to redistribute or reuse the project's content is granted merely by making this repository publicly available.
-
-## ❤️ Support the Project
-
-If you enjoy GTA: StreetBound, consider checking out the game on itch.io and sharing it with others!
-
-🎮 **Play here:** https://thodoristolis.itch.io/gtastreetbound
+**https://thodoristolis.itch.io/gtastreetbound**
 
 ---
 
-**Thank you for checking out GTA: StreetBound!** 🏙️
+<p align="center">
+  <b>GTA: StreetBound</b><br>
+  Explore the streets. Survive the city.
+</p>
